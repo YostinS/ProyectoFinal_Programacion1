@@ -194,7 +194,7 @@ public class Program()
             try
             {
                 Console.WriteLine("----------------------------------------");
-                Console.WriteLine("\t     NOMBRE EMPRESA");
+                Console.WriteLine("\t     NOVACODE SOLUTIONS");
                 Console.WriteLine("----------------------------------------");
                 Console.WriteLine("\t---- MENU PRINCIPAL ----");
                 Console.WriteLine("Selecciona una opcion: ");
