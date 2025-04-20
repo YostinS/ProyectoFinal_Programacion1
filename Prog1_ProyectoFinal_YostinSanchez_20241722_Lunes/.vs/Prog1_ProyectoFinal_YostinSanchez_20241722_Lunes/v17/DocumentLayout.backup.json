@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion Itla\\Proyecto_Final_Prog1\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F566B6-B10E-4059-8218-8069C5B969B5}|Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes.csproj|c:\\programacion itla\\proyecto_final_prog1\\prog1_proyectofinal_yostinsanchez_20241722_lunes\\prog1_proyectofinal_yostinsanchez_20241722_lunes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F566B6-B10E-4059-8218-8069C5B969B5}|Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes.csproj|solutionrelative:prog1_proyectofinal_yostinsanchez_20241722_lunes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F566B6-B10E-4059-8218-8069C5B969B5}|Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes.csproj|c:\\programacion itla\\proyecto_final_prog1\\prog1_proyectofinal_yostinsanchez_20241722_lunes\\prog1_proyectofinal_yostinsanchez_20241722_lunes\\conexionbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F566B6-B10E-4059-8218-8069C5B969B5}|Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes.csproj|solutionrelative:prog1_proyectofinal_yostinsanchez_20241722_lunes\\conexionbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexionBaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Programacion Itla\\Proyecto_Final_Prog1\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\ConexionBaseDeDatos.cs",
+              "RelativeDocumentMoniker": "Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\ConexionBaseDeDatos.cs",
+              "ToolTip": "C:\\Programacion Itla\\Proyecto_Final_Prog1\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\ConexionBaseDeDatos.cs",
+              "RelativeToolTip": "Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\ConexionBaseDeDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:28:49.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion Itla\\Proyecto_Final_Prog1\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Program.cs",
+              "RelativeDocumentMoniker": "Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Program.cs",
+              "ToolTip": "C:\\Programacion Itla\\Proyecto_Final_Prog1\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Program.cs",
+              "RelativeToolTip": "Prog1_ProyectoFinal_YostinSanchez_20241722_Lunes\\Program.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAywKoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T18:21:26.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
